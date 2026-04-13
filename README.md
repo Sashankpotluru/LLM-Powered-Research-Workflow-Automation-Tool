@@ -2,10 +2,13 @@
 
 An internal research assistant tool that integrates OpenAI GPT-4 to automate literature review, summarization, and structured note organization for academic research workflows. Features a RAG (Retrieval-Augmented Generation) pipeline using LangChain and FAISS vector store to query and synthesize information from PDF documents.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sashankpotluru-llm-powered-research-workflow.streamlit.app)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-0.1+-orange.svg)
+
+> **Live Demo:** [https://sashankpotluru-llm-powered-research-workflow.streamlit.app](https://sashankpotluru-llm-powered-research-workflow.streamlit.app)
 
 ## Features
 
